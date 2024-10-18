@@ -53,7 +53,12 @@
 ![alt text](./Pictures/image-23.png)
 
 **บันทึกผลการทดลอง**
-- การรันคำสั่ง Start Without Debugging ให้ผลเหมือนหรือต่างจากการ debug 
+- การรันคำสั่ง Start Without Debugging ให้ผลเหมือนหรือต่างจากการ debug
+  ให้ผลลัพธ์เหมือนกัน แต่จะตอบเป็นผลลัพธ์ออกมาเลย ไม่ได้แสดงค่า Variables
+  ![image](https://github.com/user-attachments/assets/0fdb6433-edcf-42db-adb6-b66ee25b0ec7)
+  
 - การตั้ง break point มีผลอย่างไรกับการรันในโหมด Start Without Debugging หรือไม่
+Break point ไม่ได้มีผลอะไรใน Start Without Debugging  เพราะสุดท้ายก็จะแสดงค่าคำตอบออกมาเลย
+![462562778_933208845383012_453089612641810325_n](https://github.com/user-attachments/assets/7513e834-5f90-48ce-94fc-15f2045705c4)
 
 
