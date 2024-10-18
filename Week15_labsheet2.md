@@ -41,6 +41,16 @@
 **บันทึกผลการทดลอง**
 ผลที่ได้จากการทำงานในแต่ละบรรทัด  ถูกต้องตามที่เขียนเขียนโปรแกรมไว้หรือไม่
 
+![สกรีนช็อต 2024-10-18 100139](https://github.com/user-attachments/assets/056300d2-34d9-4c06-9612-95ef39ea3d30)
+
+![สกรีนช็อต 2024-10-18 100148](https://github.com/user-attachments/assets/7096ef0e-8956-4d37-b1c6-3d8584250d2c)
+
+![สกรีนช็อต 2024-10-18 100158](https://github.com/user-attachments/assets/87ba38ca-3b2a-4185-b90a-cf779a8d559e)
+
+![สกรีนช็อต 2024-10-18 100219](https://github.com/user-attachments/assets/446ba1c6-89cb-4510-98e8-1de88d988a70)
+
+![สกรีนช็อต 2024-10-18 100230](https://github.com/user-attachments/assets/3470f325-91d2-4466-bbb9-09ebf0c6f440)
+
 **หมายเหตุ**
 ในการ debug เราสามารถใช้ command pallette ในการสั่งการได้ 
 
@@ -53,7 +63,9 @@
 ![alt text](./Pictures/image-23.png)
 
 **บันทึกผลการทดลอง**
-- การรันคำสั่ง Start Without Debugging ให้ผลเหมือนหรือต่างจากการ debug 
-- การตั้ง break point มีผลอย่างไรกับการรันในโหมด Start Without Debugging หรือไม่
+- การรันคำสั่ง Start Without Debugging ให้ผลเหมือนหรือต่างจากการ debug
+  ![สกรีนช็อต 2024-10-18 100740](https://github.com/user-attachments/assets/fe212d91-5d70-4e51-8fb6-226ab5900466)
 
+- การตั้ง break point มีผลอย่างไรกับการรันในโหมด Start Without Debugging หรือไม่
+- ตอบ การตั้ง break point ไม่มีผลเมื่อรันโปรแกรมในโหมด Start Without Debugging เนื่องจากโหมดนี้จะทำการรันโปรแกรมตามปกติ โดยไม่เข้าสู่โหมดดีบัก โปรแกรมจะทำงานจนเสร็จสมบูรณ์หรือเกิดข้อผิดพลาดตามปกติโดยไม่หยุดที่จุด break point ที่ตั้งไว้
 
