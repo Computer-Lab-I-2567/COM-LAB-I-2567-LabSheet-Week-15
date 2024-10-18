@@ -79,3 +79,13 @@ class library เป็น component ชนิดหนึ่งที่ถู�
 **โปรแกรมจะกระโดดเข้าไปทำงานใน class library**
 
 19. ให้ debug โปรแกรมจนจบ บันทึกสิ่งที่ได้ในแต่ละขั้น
+    ![Screenshot 2024-10-18 105625](https://github.com/user-attachments/assets/59ee14d0-288b-4f6f-868b-59bd8d047e40)
+    ![Screenshot 2024-10-18 105828](https://github.com/user-attachments/assets/145ddf7f-06d5-4689-8ae9-e77f69849da5)
+    ![Screenshot 2024-10-18 105857](https://github.com/user-attachments/assets/6a0a8051-7621-4a7e-9e80-8f1a8ed88a70)
+    ![Screenshot 2024-10-18 105920](https://github.com/user-attachments/assets/65795e04-7245-4c3c-b75b-fefc4a71435f)
+    ![Screenshot 2024-10-18 105944](https://github.com/user-attachments/assets/a2329f02-07d6-4d95-a5bd-4287862a9e78)
+
+
+
+
+
