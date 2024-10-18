@@ -43,6 +43,8 @@
 
 **หมายเหตุ**
 ในการ debug เราสามารถใช้ command pallette ในการสั่งการได้ 
+![Screenshot 2024-10-18 100728](https://github.com/user-attachments/assets/8b8a8f2d-b54b-437e-89b7-df299a97e162)
+
 
 สามารถเรียกโดยใช้ Ctrl+Shift+P  แล้วพิมพ์ debug ลงในช่องค้นหาคำสั่ง ดังตัวอย่าง
 
@@ -53,7 +55,10 @@
 ![alt text](./Pictures/image-23.png)
 
 **บันทึกผลการทดลอง**
-- การรันคำสั่ง Start Without Debugging ให้ผลเหมือนหรือต่างจากการ debug 
+- การรันคำสั่ง Start Without Debugging ให้ผลเหมือนหรือต่างจากการ debug
+  ![Screenshot 2024-10-18 100728](https://github.com/user-attachments/assets/13ed8bbd-98b4-4fc9-8f18-b1f64e7c7061)
+
 - การตั้ง break point มีผลอย่างไรกับการรันในโหมด Start Without Debugging หรือไม่
+breakpoint จะทำงานก็ต่อเมื่อรันโค้ดในโหมด Debugging เท่านั้น ส่วนการรันในโหมด Start Without Debugging จะรันโดยไม่สนใจ Breakpoint ที่ตั้งเอาไว้
 
 
