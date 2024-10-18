@@ -40,6 +40,7 @@
 
 **บันทึกผลการทดลอง**
 ผลที่ได้จากการทำงานในแต่ละบรรทัด  ถูกต้องตามที่เขียนเขียนโปรแกรมไว้หรือไม่
+![Screenshot 2024-10-18 100723](https://github.com/user-attachments/assets/fbd4ffe6-f847-4bb6-aa5b-9df80b3f355b)
 
 **หมายเหตุ**
 ในการ debug เราสามารถใช้ command pallette ในการสั่งการได้ 
@@ -53,7 +54,11 @@
 ![alt text](./Pictures/image-23.png)
 
 **บันทึกผลการทดลอง**
-- การรันคำสั่ง Start Without Debugging ให้ผลเหมือนหรือต่างจากการ debug 
+- การรันคำสั่ง Start Without Debugging ให้ผลเหมือนหรือต่างจากการ debug
+ ![Screenshot 2024-10-18 100920](https://github.com/user-attachments/assets/7e8f5bd6-9601-4d20-a0cd-449d48940c8d) 
 - การตั้ง break point มีผลอย่างไรกับการรันในโหมด Start Without Debugging หรือไม่
+  
+ คำตอบ การตั้ง breakpoint ไม่มีผลในโหมด Start Without Debugging เพราะโปรแกรมจะรันจนจบโดยไม่สนใจ breakpoints แต่หากต้องการใช้ breakpoints ต้องรันในโหมด Start Debugging เพื่อให้โปรแกรมหยุดตามจุดที่ตั้งไว้
+
 
 
