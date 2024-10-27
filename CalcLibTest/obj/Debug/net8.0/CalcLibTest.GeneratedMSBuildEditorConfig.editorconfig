@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CalcLibTest
-build_property.ProjectDir = C:\Users\jiman\Desktop\โฟลเดอร์ใหม่ (4)\CalcLibTest\
+build_property.ProjectDir = C:\Users\jiman\Documents\GitHub\COM-LAB-I-2567-LabSheet-Week-15\CalcLibTest\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
