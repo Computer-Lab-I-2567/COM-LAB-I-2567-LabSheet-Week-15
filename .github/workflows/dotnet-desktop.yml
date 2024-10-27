@@ -75,5 +75,5 @@ jobs:
 
       - name: Test Add
         id: run_vstest
-        working-directory: \CalcLibTest\bin\Debug\net8.0
+        working-directory: CalcLibTest\bin\Debug\net8.0
         run: vstest.console.exe CalcLibTest.dll /Tests:TestMethod1
