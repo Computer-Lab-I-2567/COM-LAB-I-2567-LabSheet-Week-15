@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jiman\\Desktop\\โฟลเดอร์ใหม่ (4)\\Calaulator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\jiman\\Documents\\GitHub\\COM-LAB-I-2567-LabSheet-Week-15\\Calaulator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\Users\\jiman\\Desktop\\โฟลเดอร์ใหม่ (4)\\Calaulator\\Calculator.csproj",
+      "projectPath": "C:\\Users\\jiman\\Documents\\GitHub\\COM-LAB-I-2567-LabSheet-Week-15\\Calaulator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\jiman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jiman\\Desktop\\โฟลเดอร์ใหม่ (4)\\Calaulator\\obj\\",
+      "outputPath": "C:\\Users\\jiman\\Documents\\GitHub\\COM-LAB-I-2567-LabSheet-Week-15\\Calaulator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jiman\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\jiman\\Desktop\\โฟลเดอร์ใหม่ (4)\\CalculatorLibrary\\CalculatorLibrary.csproj": {
-              "projectPath": "C:\\Users\\jiman\\Desktop\\โฟลเดอร์ใหม่ (4)\\CalculatorLibrary\\CalculatorLibrary.csproj"
+            "C:\\Users\\jiman\\Documents\\GitHub\\COM-LAB-I-2567-LabSheet-Week-15\\CalculatorLibrary\\CalculatorLibrary.csproj": {
+              "projectPath": "C:\\Users\\jiman\\Documents\\GitHub\\COM-LAB-I-2567-LabSheet-Week-15\\CalculatorLibrary\\CalculatorLibrary.csproj"
             }
           }
         }

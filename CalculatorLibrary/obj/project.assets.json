@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jiman\\Desktop\\โฟลเดอร์ใหม่ (4)\\CalculatorLibrary\\CalculatorLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\jiman\\Documents\\GitHub\\COM-LAB-I-2567-LabSheet-Week-15\\CalculatorLibrary\\CalculatorLibrary.csproj",
       "projectName": "CalculatorLibrary",
-      "projectPath": "C:\\Users\\jiman\\Desktop\\โฟลเดอร์ใหม่ (4)\\CalculatorLibrary\\CalculatorLibrary.csproj",
+      "projectPath": "C:\\Users\\jiman\\Documents\\GitHub\\COM-LAB-I-2567-LabSheet-Week-15\\CalculatorLibrary\\CalculatorLibrary.csproj",
       "packagesPath": "C:\\Users\\jiman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jiman\\Desktop\\โฟลเดอร์ใหม่ (4)\\CalculatorLibrary\\obj\\",
+      "outputPath": "C:\\Users\\jiman\\Documents\\GitHub\\COM-LAB-I-2567-LabSheet-Week-15\\CalculatorLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jiman\\AppData\\Roaming\\NuGet\\NuGet.Config"
