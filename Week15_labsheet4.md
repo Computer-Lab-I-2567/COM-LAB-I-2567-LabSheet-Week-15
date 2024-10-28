@@ -41,3 +41,8 @@
 
 ![alt text](./Pictures/image-41.png)
 
+
+# ผลการทดลอง
+![image](https://github.com/user-attachments/assets/1867f24f-851b-4f69-86fe-5c03651b61ce)
+
+
