@@ -38,3 +38,8 @@ https://github.com/koson/demo_classlib/actions
 **ตัวอย่างไฟล์ workflow `dotnet-desktop.yml`**
 https://github.com/koson/demo_classlib/actions/runs/11393214123/workflow
 
+
+# ผลการทดลอง เเก้ eror
+![image](https://github.com/user-attachments/assets/226412b6-d832-428f-9cfc-6ac3f772cf0d)
+![image](https://github.com/user-attachments/assets/ccaf4a3d-029b-4690-b521-b4d696cc642a)
+
