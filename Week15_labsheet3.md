@@ -1,4 +1,4 @@
-# การทดลอง
+![Screenshot 2024-11-10 081455](https://github.com/user-attachments/assets/1d3bfff3-8b64-4d04-b7f9-5a0e1ea14727)# การทดลอง
 ## การรัน unit test บน console application โดยใช้ Visual Studio Code (ตอนที่ 1)
 
 - ใบงานนี้จะทำการ รัน unit test บน  .NET console application โดยใช้ Visual Studio Code
@@ -79,3 +79,26 @@ class library เป็น component ชนิดหนึ่งที่ถู�
 **โปรแกรมจะกระโดดเข้าไปทำงานใน class library**
 
 19. ให้ debug โปรแกรมจนจบ บันทึกสิ่งที่ได้ในแต่ละขั้น
+    
+    ![Screenshot 2024-11-10 081401](https://github.com/user-attachments/assets/de447951-1747-49d6-a0f1-9ccb489b1bcd)
+
+    ![Screenshot 2024-11-10 081418](https://github.com/user-attachments/assets/8e56dcab-929f-42df-8e31-ca782153ec67)
+
+    ![Screenshot 2024-11-10 081426](https://github.com/user-attachments/assets/9604c6a0-992d-470c-810d-79a5efa47f04)
+
+    ![Screenshot 2024-11-10 081431](https://github.com/user-attachments/assets/6b86564c-5414-4e54-85f5-2081b58ef510)
+
+    ![Screenshot 2024-11-10 081436](https://github.com/user-attachments/assets/8fbf303b-8f8e-4629-a3e7-5a5c2c417703)
+
+    ![Screenshot 2024-11-10 081450](https://github.com/user-attachments/assets/b8156d9f-189a-4ff4-b2d9-6a62e6616953)
+
+    ![Screenshot 2024-11-10 081455](https://github.com/user-attachments/assets/86fde215-3777-415e-bee4-0075e8296908)
+
+    ![Screenshot 2024-11-10 081500](https://github.com/user-attachments/assets/fc83b421-5d61-4ec1-a2b4-1b23424c63f8)
+
+    ![Screenshot 2024-11-10 081504](https://github.com/user-attachments/assets/e905b2bd-8824-4103-9db0-4626b22b50e3)
+
+
+
+
+
